@@ -64,9 +64,6 @@ public class Subject{
 	public double getVY(){//return vY.
 		return vY;
 	}
-	public double getVZ(){//return vZ.
-		return vZ;
-	}
 }
 	
 
